@@ -30,7 +30,7 @@ The configuration is simple, you have 3 files with the extension yaml ".yml"
 
 Among these are:
 
-``` prolog
+```
 "messages.yml":
 to configure messages
 
