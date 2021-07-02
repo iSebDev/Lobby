@@ -1,0 +1,5 @@
+name: Lobby
+main: plugin.main
+authors: [EpicX14, SebDev]
+description: A muntifunctional plugin to create your lobby or spawn
+version: 1.0
