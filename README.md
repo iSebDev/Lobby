@@ -1,4 +1,4 @@
-# Lobby System
+# Lobby System in Construction
 Minecraft plugin 1.8 - 1.17 by SebDev &amp; EpicX14
 
 # Main
