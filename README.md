@@ -46,6 +46,7 @@ Here you have to make the list of effects in the world that the lobby is, which 
 ```prolog
 FIRST: HOW TO CHANGE PREFIX
   - Enter "messages.yml"
+  - Change the prefix!
 ```
 # Messages.yml
 
