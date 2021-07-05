@@ -44,5 +44,5 @@ Here you have to make the list of effects in the world that the lobby is, which 
 # Messages
 
 ```prolog
-HOW TO CONFIGURE PREFIX
+>> HOW TO CONFIGURE PREFIX
 ```
