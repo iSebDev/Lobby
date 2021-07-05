@@ -40,3 +40,9 @@ to activate and deactivate functions and add some data as coordinates
 "effects.yml":
 Here you have to make the list of effects in the world that the lobby is, which can be deactivated from the configuration file
 ```
+
+# Messages
+
+```prolog
+HOW TO CONFIGURE PREFIX
+```
