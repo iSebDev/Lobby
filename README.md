@@ -43,6 +43,6 @@ Here you have to make the list of effects in the world that the lobby is, which 
 
 # Messages
 
-```fix
-HOW TO CHANGE PREFIX
+```prolog
+FIRST: HOW TO CHANGE PREFIX
 ```
