@@ -1,1 +1,16 @@
-
+config:
+  lobby: true
+  spawn: false
+  
+locations: 
+  lobby: 
+  spawn:
+  
+join: 
+  effects: 
+    lobby:
+  
+  messages:
+    privatemsg: true
+    publicmsg: true
+    
