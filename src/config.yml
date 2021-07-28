@@ -11,6 +11,10 @@ join:
     lobby:
   
   messages:
-    privatemsg: true
-    publicmsg: true
+    privatemsg: 
+      on_leave: true
+      on_join: true
+    publicmsg: 
+      on_leave: true
+      on_join: true
     
